@@ -1,6 +1,6 @@
 # vue-element-admin-ts
 
->  [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 的 *typescript* 版本 by [vue-cli3](https://cli.vuejs.org/zh/) and [vue-cli3-typescript-template](https://github.com/cklwblove/vue-cli3-typescript-template) 
+>  [fork](https://github.com/cklwblove/vue-element-admin-ts)
 
 
 ## 效果
@@ -10,7 +10,7 @@
 ### 安装
 
 ```node
-yarn install
+npm install
 ```
 
 ### 开发

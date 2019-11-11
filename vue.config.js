@@ -9,7 +9,7 @@ const chalk = require('chalk');
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const pkg = require('./package.json');
 
-const port = 5577;
+const port = 9527;
 // page title
 const name = `${pkg.name}`;
 

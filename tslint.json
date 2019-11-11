@@ -11,7 +11,7 @@
     ]
   },
   "rules": {
-    "quotemark": [true, "single"],
+    "quotemark": false,
     "indent": [true, "spaces", 0],
     "trailing-comma": false,
     "interface-name": false,
