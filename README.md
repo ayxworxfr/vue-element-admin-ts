@@ -3,6 +3,9 @@
 >  [fork](https://github.com/cklwblove/vue-element-admin-ts)
 
 
+>  vue-element-admin 的 typescript 版本 by vue-cli3 and vue-cli3-typescript-template
+
+
 ## 效果
 
 ![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
